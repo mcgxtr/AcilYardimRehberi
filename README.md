@@ -15,3 +15,9 @@ Bu uygulama, acil durumlarda hızlıca yardım çağırmayı, belirli illerdeki 
 1. Bu projeyi klonlayın:
    ```bash
    git clone [https://github.com/mcgxtr/AcilYardimRehberi.git](https://github.com/mcgxtr/AcilYardimRehberi.git)
+
+## 📸 Ekran Görüntüsü
+
+<p align="center">
+  <img src="Screenshots/ana_ekran.jpg" width="300" title="Uygulama Ana Ekranı">
+</p>
