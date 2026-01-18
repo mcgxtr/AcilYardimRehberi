@@ -19,5 +19,5 @@ Bu uygulama, acil durumlarda hızlıca yardım çağırmayı, belirli illerdeki 
 ## 📸 Ekran Görüntüsü
 
 <p align="center">
-  <img src="Screenshots/ana_ekran.jpg" width="300" title="Uygulama Ana Ekranı">
+  <img src="screenshots/ana_ekran.jpg" width="300" title="Uygulama Ana Ekranı">
 </p>
